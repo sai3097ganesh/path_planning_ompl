@@ -1,0 +1,17 @@
+# Build artifacts
+/build/
+
+# Generated output
+/output/
+/data/
+
+# Local deps
+/third_party/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
